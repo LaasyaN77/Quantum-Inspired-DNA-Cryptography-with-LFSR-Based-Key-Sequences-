@@ -6,7 +6,7 @@ This MATLAB GUI project encrypts and decrypts your data using LFSR-generated key
 
 
 ###  Key Features:
-- Generates pseudo-random binary keys with LFSR  🔑 
+- Generates pseudo-random binary keys with LFSR of 16, 32 and 64 bit length! 🔑 
 - Encodes them into synthetic DNA (A, T, G, C)
 - Adds quantum-inspired randomness (superposition + entanglement)
 - 🔐 Encrypts + Decrypts
